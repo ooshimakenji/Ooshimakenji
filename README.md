@@ -60,3 +60,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+
+## Contribuindo / Contributing
+
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.  
+Contributions are welcome! Feel free to open an issue or submit a pull request.
