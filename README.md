@@ -1,7 +1,7 @@
 <h1 align="center">Oi, eu sou o Kenji 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor JavaScript & Python</b> — automações, bots WhatsApp e apps web com IA
+  <b>Desenvolvedor JavaScript & Python</b> — automações, bots para WhatsApp e aplicativos web com IA
 </p>
 
 <p align="center">
