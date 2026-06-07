@@ -24,7 +24,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
 
-<br/><br/>
+</div>
+<div align="center">
 
 **Frontend e Runtime**
 <br/>
@@ -32,7 +33,8 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
 
-<br/><br/>
+</div>
+<div align="center">
 
 **Banco de Dados**
 <br/>
@@ -41,15 +43,18 @@
 <a href="https://supabase.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
 
-<br/><br/>
+</div>
+<div align="center">
 
 **Cloud e Deploy**
 <br/>
 <a href="https://aws.amazon.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
 <a href="https://cloud.google.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
 <a href="https://www.netlify.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+<a href="https://railway.app/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Railway-FF8300?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/></a>
 
-<br/><br/>
+</div>
+<div align="center">
 
 **Ferramentas e IA**
 <br/>
@@ -77,5 +82,6 @@
 
 <p align="center">
   <a href="mailto:viniciuskenjioshima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para viniciuskenjioshima@gmail.com"/></a>
+  <a href="https://wa.me/5547992882260" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 47 99288-2260"/></a>
   <a href="https://github.com/Ooshimakenji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil do GitHub"/></a>
 </p>
