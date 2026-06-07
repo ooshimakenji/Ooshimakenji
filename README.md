@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Ooshimakenji">
-    <img src="https://github-readme-stats.creativeghorr.com/api?username=Ooshimakenji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="160" alt="Estatisticas do GitHub: commits, issues, pull requests e repositorios" />
+    <img src="https://github-readme-stats-git.vercel.app/api?username=Ooshimakenji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="160" alt="Estatisticas do GitHub: commits, issues, pull requests e repositorios" />
   </a>
   <a href="https://github.com/Ooshimakenji">
     <img src="https://github-readme-stats.creativeghorr.com/api/top-langs/?username=Ooshimakenji&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" height="160" alt="Linguagens de programacao mais usadas no GitHub" />
