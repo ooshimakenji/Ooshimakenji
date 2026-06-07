@@ -1,56 +1,81 @@
-# Kenji
+<h1 align="center">Kenji</h1>
 
-Desenvolvedor JavaScript & Python — automacoes, bots para WhatsApp e aplicativos web com IA.
+<p align="center">
+  Desenvolvedor JavaScript e Python — automacoes, bots para WhatsApp e aplicativos web com IA
+</p>
+
+<p align="center">
+  <a href="https://github.com/Ooshimakenji">
+    <img src="https://github-readme-stats.creativeghorr.com/api?username=Ooshimakenji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10" height="160" alt="Estatisticas do GitHub: commits, issues, pull requests e repositorios" />
+  </a>
+  <a href="https://github.com/Ooshimakenji">
+    <img src="https://github-readme-stats.creativeghorr.com/api/top-langs/?username=Ooshimakenji&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&border_radius=10" height="160" alt="Linguagens de programacao mais usadas no GitHub" />
+  </a>
+</p>
 
 ---
 
 ## Stack
 
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_API-7C3AED?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<div align="center">
+
+**Linguagens**
+<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+
+<br/><br/>
+
+**Frontend e Runtime**
+<br/>
+<a href="https://react.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
+<a href="https://nodejs.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+
+<br/><br/>
+
+**Banco de Dados**
+<br/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></a>
+<a href="https://www.sqlite.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
+<a href="https://supabase.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
+
+<br/><br/>
+
+**Cloud e Deploy**
+<br/>
+<a href="https://aws.amazon.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/></a>
+<a href="https://www.netlify.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
+
+<br/><br/>
+
+**Ferramentas e IA**
+<br/>
+<a href="https://playwright.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+<a href="https://claude.ai/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Claude_API-7C3AED?style=for-the-badge&logoColor=white" alt="Claude API"/></a>
+
 </div>
-
----
-
-## Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ooshimakenji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooshimakenji&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ooshimakenji&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
 ## Projetos
 
 | Projeto | Stack | Descricao |
-|---|---|---|
-| [bot-whatsapp-jp](https://github.com/ooshimakenji/bot-whatsapp-jp) | Node.js · Gemini · Supabase | Bot WhatsApp com IA para atendimento e agendamento automatico |
-| [python-sciweb](https://github.com/ooshimakenji/python-sciweb) | Python · Playwright · Pandas | Automacao de ordens de servico no SCIWEB via robo web |
-| [Bila-dogchef](https://github.com/ooshimakenji/Bila-dogchef) | React · Claude API · Netlify | App que sugere receitas com IA a partir dos ingredientes disponiveis |
-| [whatsapp-organizer](https://github.com/ooshimakenji/whatsapp-organizer) | Node.js | Organiza midia exportada do WhatsApp por protocolo numerico |
-| [bilatracker11](https://github.com/ooshimakenji/bilatracker11) | JS · Firebase · PWA | Rastreador de leads/URLs com banco em tempo real, instalavel |
-| [APIS](https://github.com/ooshimakenji/APIS) | JS · Netlify | Dashboard pessoal com clima, Bitcoin, Unsplash e gatos |
+|:---|:---|:---|
+| [bot-whatsapp-jp](https://github.com/Ooshimakenji/bot-whatsapp-jp) | Node.js, Gemini, Supabase | Bot WhatsApp com IA para atendimento e agendamento automatico |
+| [python-sciweb](https://github.com/Ooshimakenji/python-sciweb) | Python, Playwright, Pandas | Automacao de ordens de servico no SCIWEB via robo web |
+| [Bila-dogchef](https://github.com/Ooshimakenji/Bila-dogchef) | React, Claude API, Netlify | App que sugere receitas com IA a partir dos ingredientes disponiveis |
+| [whatsapp-organizer](https://github.com/Ooshimakenji/whatsapp-organizer) | Node.js | Organiza midia exportada do WhatsApp por protocolo numerico |
+| [bilatracker11](https://github.com/Ooshimakenji/bilatracker11) | JavaScript, Firebase, PWA | Rastreador de leads e URLs com banco em tempo real, instalavel |
+| [APIS](https://github.com/Ooshimakenji/APIS) | JavaScript, Netlify | Dashboard pessoal com clima, Bitcoin, Unsplash e gatos |
 
 ---
 
 ## Contato
 
-[viniciuskenjioshima@gmail.com](mailto:viniciuskenjioshima@gmail.com)
+<p align="center">
+  <a href="mailto:viniciuskenjioshima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar email para viniciuskenjioshima@gmail.com"/></a>
+  <a href="https://github.com/Ooshimakenji"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Perfil do GitHub"/></a>
+</p>
