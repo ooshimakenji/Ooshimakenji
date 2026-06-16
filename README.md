@@ -1,7 +1,7 @@
 <h1 align="center">Kenji</h1>
 
 <p align="center">
-  Desenvolvedor JavaScript e Python — automacoes, bots para WhatsApp e aplicativos web com IA
+  Desenvolvedor full-stack — React/TypeScript e Node/Express, com automacoes, bots para WhatsApp e aplicativos web com IA
 </p>
 
 ---
@@ -14,6 +14,7 @@
 <br/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
 
 </div>
 <div align="center">
@@ -23,6 +24,16 @@
 <a href="https://react.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/></a>
 <a href="https://nodejs.org/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a>
+<a href="https://mui.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI"/></a>
+
+</div>
+<div align="center">
+
+**Backend e ORM**
+<br/>
+<a href="https://expressjs.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
 
 </div>
 <div align="center">
@@ -49,6 +60,7 @@
 
 **Ferramentas e IA**
 <br/>
+<a href="https://turbo.build/repo" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo"/></a>
 <a href="https://playwright.dev/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
 <a href="https://claude.ai/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Claude_API-7C3AED?style=for-the-badge&logoColor=white" alt="Claude API"/></a>
 
@@ -60,6 +72,10 @@
 
 | Projeto | Stack | Descricao |
 |:---|:---|:---|
+| [ambiente](https://github.com/Ooshimakenji/ambiente) | Turborepo, React, TypeScript, MUI, Express, Prisma | Monorepo unificado de ordens de servico — mapa, dashboard e cadastro num so sistema |
+| [ambiente_cadastro](https://github.com/Ooshimakenji/ambiente_cadastro) | React, TypeScript, MUI, Express, Prisma | App de OS (cadastro e recebimento) com RBAC configuravel e auditoria |
+| [dashboard_servicos](https://github.com/Ooshimakenji/dashboard_servicos) | React, Vite, MUI | Dashboard de servicos e indicadores com design Material Design 3 |
+| [mapa-registros](https://github.com/Ooshimakenji/mapa-registros) | Python, Flask, Leaflet, PostgreSQL | Mapa interativo de registros e ocorrencias de campo |
 | [bot-whatsapp-jp](https://github.com/Ooshimakenji/bot-whatsapp-jp) | Node.js, Gemini, Supabase | Bot WhatsApp com IA para atendimento e agendamento automatico |
 | [python-sciweb](https://github.com/Ooshimakenji/python-sciweb) | Python, Playwright, Pandas | Automacao de ordens de servico no SCIWEB via robo web |
 | [Bila-dogchef](https://github.com/Ooshimakenji/Bila-dogchef) | React, Claude API, Netlify | App que sugere receitas com IA a partir dos ingredientes disponiveis |
