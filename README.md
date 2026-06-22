@@ -1,4 +1,4 @@
-<h1 align="center">Kenji</h1>
+<h1 align="center">Kenji Ooshima</h1>
 
 <p align="center">
   Desenvolvedor full-stack — React/TypeScript e Node/Express, com automacoes, bots para WhatsApp e aplicativos web com IA
