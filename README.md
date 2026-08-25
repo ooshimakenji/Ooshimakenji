@@ -35,31 +35,16 @@
 
 ---
 
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ooshimakenji&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ooshimakenji&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top langs"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ooshimakenji&theme=tokyonight&hide_border=true" alt="streak"/>
-
-</div>
-
----
-
 ## 🚀 Projetos
 
 | Projeto | Stack | Descrição |
 |:---|:---|:---|
-| [ambiente](https://github.com/Ooshimakenji/ambiente) | Turborepo, React, TypeScript, MUI, Express, Prisma | Monorepo unificado de ordens de serviço — mapa, dashboard e cadastro num só sistema |
+| **ambiente** 🔒 | Turborepo, React, TypeScript, MUI, Express, Prisma | Monorepo unificado de ordens de serviço — mapa, dashboard e cadastro num só sistema. Sistema interno em produção, código privado |
 | [ambiente_cadastro](https://github.com/Ooshimakenji/ambiente_cadastro) | React, TypeScript, MUI, Express, Prisma | App de OS (cadastro e recebimento) com RBAC configurável e auditoria |
-| [dashboard_servicos](https://github.com/Ooshimakenji/dashboard_servicos) | React, Vite, MUI | Dashboard de serviços e indicadores com design Material Design 3 |
+| **dashboard_servicos** 🔒 | React, Vite, MUI | Dashboard de serviços e indicadores com design Material Design 3. Sistema interno, código privado |
 | [mapa-registros](https://github.com/Ooshimakenji/mapa-registros) | Python, Flask, Leaflet, PostgreSQL | Mapa interativo de registros e ocorrências de campo |
 | [bot-whatsapp-jp](https://github.com/Ooshimakenji/bot-whatsapp-jp) | Node.js, Gemini, Supabase | Bot WhatsApp com IA para atendimento e agendamento automático |
-| [python-sciweb](https://github.com/Ooshimakenji/python-sciweb) | Python, Playwright, Pandas | Automação de ordens de serviço no SCIWEB via robô web |
+| [python-sciweb-async](https://github.com/Ooshimakenji/python-sciweb-async) | Python, asyncio, Playwright, Pandas | Automação de ordens de serviço no SCIWEB via robô web, em paralelo com Playwright async |
 | [Bila-dogchef](https://github.com/Ooshimakenji/Bila-dogchef) | React, Claude API, Netlify | App que sugere receitas com IA a partir dos ingredientes disponíveis |
 | [whatsapp-organizer](https://github.com/Ooshimakenji/whatsapp-organizer) | Node.js | Organiza mídia exportada do WhatsApp por protocolo numérico |
 | [bilatracker11](https://github.com/Ooshimakenji/bilatracker11) | JavaScript, Firebase, PWA | Rastreador de leads e URLs com banco em tempo real, instalável |
