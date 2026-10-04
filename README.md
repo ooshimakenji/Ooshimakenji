@@ -43,7 +43,8 @@
 | Projeto | Stack | Descrição |
 |:---|:---|:---|
 | **ambiente** 🔒 | Turborepo, React, TypeScript, MUI, Express, Prisma | Monorepo unificado de ordens de serviço — mapa, dashboard e cadastro num só sistema. Em produção, código privado |
-| **licitacoes** 🔒 | Rust, GitHub Actions, React, MUI | Radar de licitações do PNCP: coletor em Rust roda no CI e grava JSON; painel filtra por área, serviço vs material e exclusividade ME/EPP |
+| [licitacoes](https://github.com/Ooshimakenji/licitacoes) | Rust, GitHub Actions, React, MUI | Radar de licitações do PNCP: coletor em Rust roda no CI e grava JSON; painel filtra por área, serviço vs material e exclusividade ME/EPP |
+| [radar-passagens](https://github.com/Ooshimakenji/radar-passagens) | Python, GitHub Actions, React, MUI | Radar de passagens aéreas com alerta que o Google Flights não dá: destino variável (um país inteiro), gatilho definido por quem usa e série histórica própria |
 | [ambiente_cadastro](https://github.com/Ooshimakenji/ambiente_cadastro) | React 19, TypeScript, MUI, Express, Prisma | App de OS (cadastro e recebimento) com RBAC configurável e auditoria de toda mutação |
 | **dashboard_servicos** 🔒 | React, Vite, MUI | Dashboard de serviços e indicadores em Material Design 3. Sistema interno, código privado |
 | [pavimento](https://github.com/Ooshimakenji/pavimento) | JavaScript | Descobre o vazamento de origem de uma REPAV no SCI (e o caminho inverso), em lote |
