@@ -47,7 +47,7 @@
 | [radar-passagens](https://github.com/Ooshimakenji/radar-passagens) | Python, GitHub Actions, React, MUI | Radar de passagens aéreas com alerta que o Google Flights não dá: destino variável (um país inteiro), gatilho definido por quem usa e série histórica própria |
 | [ambiente_cadastro](https://github.com/Ooshimakenji/ambiente_cadastro) | React 19, TypeScript, MUI, Express, Prisma | App de OS (cadastro e recebimento) com RBAC configurável e auditoria de toda mutação |
 | **dashboard_servicos** 🔒 | React, Vite, MUI | Dashboard de serviços e indicadores em Material Design 3. Sistema interno, código privado |
-| [pavimento](https://github.com/Ooshimakenji/pavimento) | JavaScript | Descobre o vazamento de origem de uma REPAV no SCI (e o caminho inverso), em lote |
+| **pavimento** 🔒 | JavaScript | Descobre o vazamento de origem de uma REPAV no SCI (e o caminho inverso), em lote. Sistema interno, código privado |
 | [mapa-registros](https://github.com/Ooshimakenji/mapa-registros) | Python, Flask, Leaflet, PostgreSQL | Visualização geográfica de ordens de serviço em mapa interativo |
 | [python-sciweb-async](https://github.com/Ooshimakenji/python-sciweb-async) | Python, asyncio, Playwright | Robô web do SEMASA em versão assíncrona, processando vários registros em paralelo |
 | [bot-whatsapp-jp](https://github.com/Ooshimakenji/bot-whatsapp-jp) | Node.js, IA, Supabase | Atendimento 24h no WhatsApp: responde dúvidas, analisa fotos para estimar preço e agenda visitas |
